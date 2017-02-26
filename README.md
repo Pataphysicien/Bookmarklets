@@ -1,0 +1,2 @@
+# Bookmarklets
+Repository of bookmarklets
